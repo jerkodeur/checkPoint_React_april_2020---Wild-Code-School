@@ -1,0 +1,14 @@
+.displayScreenShots {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(30em, 1fr));
+  gap: 1.8em 2em;
+}
+
+.imgScreen {
+  width: auto;
+  height: auto;
+}
+
+.buttonFilter {
+  margin-bottom: 2.25em;
+}

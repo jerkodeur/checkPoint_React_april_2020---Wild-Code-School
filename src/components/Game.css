@@ -1,0 +1,38 @@
+*, ::before, ::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(30em, 1fr));
+  grid-template-rows: auto;
+  gap: .5em .5em
+}
+
+.buttonFilter {
+  padding: 1em;
+  background-color: rgb(99, 74, 8);
+  border: 3px ridge rgb(194, 178, 133);
+  color: rgb(194, 178, 133);
+  margin: 1em auto;
+  width: 33%;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.buttonFilter:hover {
+  background-color: rgb(238, 233, 223);
+  color: rgb(53, 42, 12);
+}
+
+.divButton {
+  width: 100%;
+  background-color: rgb(53, 42, 12);
+  margin-bottom: .5em;
+}

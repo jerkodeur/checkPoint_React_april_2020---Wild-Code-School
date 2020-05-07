@@ -1,0 +1,96 @@
+.gameImage {
+  width: 80%;
+  height: 15em;
+  border: 2px inset rgb(238, 233, 223);
+}
+
+.game {
+  border: 1px solid #000;
+  height: 100%;
+  gap: 0 0;
+  background-color: rgb(194, 178, 133);
+}
+
+.game fieldset {
+  border: 1px inset rgb(238, 233, 223);
+  background-color: rgb(53, 42, 12);
+  color: rgb(194, 178, 133);
+  width: 50%;
+  margin: auto;
+  padding: .2em;
+}
+
+.genre {
+  margin-bottom: 1em;
+  min-height: 2em;
+}
+
+li {
+  list-style-type: none;
+  list-style-position: unset;
+}
+
+.game button {
+  border: 1px ridge rgb(53, 42, 12);
+  background-color: rgb(196, 186, 161);
+  color: rgb(53, 42, 12);
+  padding: .5em;
+  margin-top: 1em;
+  width: 100%;
+}
+
+.buttonDelete {
+  font-weight: bold;
+  border-style: outset none none;
+}
+
+.buttonDelete:hover {
+  background-color: rgb(238, 233, 223);
+}
+
+li {
+  list-style-type: none;
+  list-style-position: unset;
+}
+
+.screenShot {
+  width: 10em;
+  height: 5em;
+  margin: .1em;
+}
+
+.divScreen {
+  border: 1px solid rgb(238, 233, 223);
+  width: 90%;
+  padding: .5em;
+  margin: auto;
+}
+
+.divScreen:hover {
+  border: 2px inset rgb(53, 42, 12);
+  background-color: rgb(196, 186, 161);
+}
+
+.rating button {
+  border: 2px inset rgb(238, 233, 223);
+  border-radius: 100%;
+  margin: 1em;
+  padding: 1em;
+  font-weight: bold;
+  color: rgb(53, 42, 12);
+  font-size: 1.2em;
+  width: 33%;
+}
+
+.released {
+  margin: .5em;
+  font-size: .9em;
+  width: 100%;
+}
+
+h2 {
+  background-color: rgb(150, 144, 128);
+  color: rgb(46, 34, 13);
+  padding: 1em;
+  border-bottom: 1px ridge rgb(53, 42, 12);
+}
