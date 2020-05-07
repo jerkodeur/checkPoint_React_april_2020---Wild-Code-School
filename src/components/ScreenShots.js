@@ -11,13 +11,15 @@ const ScreenShots = (props) => {
   console.log(screens.short_screenshots.map(screen => screen.image))
   return (
     <>
-      <div className="displayScreenShots">
+      <div>
         <Link to="/"><button className="buttonFilter">Retour</button></Link>
-        {
-          screens.short_screenshots.map(screen =>
-            <div className="screen"><img src={screen.image} alt={screen.id} className="gameImage" /></div>
-          )
-        }
+        <div className="displayScreenShots">
+          {
+            screens.short_screenshots.map(screen =>
+              <div className="screen"><img src={screen.image} alt={screen.id} className="gameImage" /></div>
+            )
+          }
+        </div>
       </div>
     </>
   )

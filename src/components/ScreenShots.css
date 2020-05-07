@@ -2,6 +2,7 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(30em, 1fr));
   gap: 1.8em 2em;
+  width: 100%;
 }
 
 .imgScreen {

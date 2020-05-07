@@ -33,7 +33,7 @@ class Game extends React.Component {
 
   filterGames(booleen) {
     if (booleen) {
-      const gameFilter = this.state.games.filter(game => game.rating > 4.5).sort((a, b) => a.rating < b.rating)
+      const gameFilter = this.state.games.sort((a, b) => a.rating < b.rating)
       this.setState({ "games": gameFilter, "filter": booleen })
     }
     else {

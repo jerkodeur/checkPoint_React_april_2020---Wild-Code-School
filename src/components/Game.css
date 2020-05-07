@@ -10,9 +10,9 @@ html {
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(30em, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(35em, 1fr));
   grid-template-rows: auto;
-  gap: .5em .5em
+  gap: 1em 1em;
 }
 
 .buttonFilter {
