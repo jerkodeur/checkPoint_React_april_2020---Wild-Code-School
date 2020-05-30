@@ -1,4 +1,4 @@
-# CheckPoint 2 (_Avril 2020_)
+# CheckPoint 2
 ![](https://media-exp1.licdn.com/dms/image/C562DAQGFltMWhLLHdQ/profile-treasury-image-shrink_480_480/0?e=1590933600&v=beta&t=HuJUR6MkBC7-9zZvfh19BLoDtVqV4-y4VyEEUKmHxQM)  
 ### [Voir le résultat](https://loving-booth-82aa55.netlify.app/)
 ## Description
