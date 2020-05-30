@@ -5,7 +5,7 @@
 Rendu de mon 2ème checkpoint afin d'évaluer les compétences apprises en __React__ à la [wildCodeSchool](https://www.wildcodeschool.com/fr-FR).  
 ## Fiche technique
 #### Les instructions suivantes devaient être respectées:  
-- __Consommer une api__ sur le thème du jeux vidéo,
+- __Consommer une api__ sur le thème des jeux vidéos,
 - Afficher une liste des jeux, avec différentes informations
 - Créer un bouton pour supprimer un fichier de la liste contenue dans le state.
 - Filtrer les jeux vidéos par rating ( optionnel )
