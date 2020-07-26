@@ -17,4 +17,4 @@ Rendu de mon 2ème checkpoint afin d'évaluer les compétences apprises en __Rea
 - Le site est __responsive__
 
 ## A propos
-Retrouvez mon [profil Linkedin](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-poti%C3%A9/) ( je recherche un stage à partir du 03 août 2020) 
+Retrouvez mon [profil Linkedin](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-poti%C3%A9/) ( je recherche un stage à partir du mois de septembre 2020) 
